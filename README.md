@@ -1,5 +1,6 @@
 # onr2017
 Scripts for machine learning at ONR project (2017-)
+
 Data:
 unnorma.input.data contains four columns, which are Temperature, Concentration, Dwelling Time and %Mass Change. 
 norm.input.data contains four columns after normalization, consistent with unnorma.input.data. 
